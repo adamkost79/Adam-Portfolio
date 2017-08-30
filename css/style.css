@@ -31,8 +31,7 @@ h6 {
 }
 
 .navElements{
-text-align: center !important;
-margin-left: 200px !important;
+margin-right: -100px;
 }
 
 .button-collapse {
