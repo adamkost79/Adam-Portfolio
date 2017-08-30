@@ -205,6 +205,10 @@ footer.page-footer {
   line-height: 150%;
 }
 
+#homeDescriptor7 {
+  text-shadow: 1.5px 1.5px #000;
+  line-height: 150%;
+}
 .portfolioCard {
   width: 200px;
   margin: 0 auto;
