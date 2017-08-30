@@ -30,10 +30,14 @@ h6 {
   font-family: 'Raleway', sans-serif;
 }
 
-.navElements {
-  margin-left: 200px;
-}
+/*.navElements {
+  margin: 0 auto;
+}*/
 
+.navElements{
+  transform: translateX(32%);
+  webkit-transform: translateX(-32%);
+}
 .button-collapse {
   color: #26a69a;
 }
