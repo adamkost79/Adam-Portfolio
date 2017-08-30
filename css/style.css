@@ -30,8 +30,9 @@ h6 {
   font-family: 'Raleway', sans-serif;
 }
 
-.navElements {
-margin-left: 205px;
+.navElements{
+text-align: center !important;
+margin-left: 200px !important;
 }
 
 .button-collapse {
